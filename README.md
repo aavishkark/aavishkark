@@ -1,6 +1,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/avishkar-kamble-426830202/
-- Portfolio: https://aavishkark.github.io
+- Portfolio: https://avishkar-kamble.vercel.app
 - GitHub-Stats
 - <img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkark"/>
 - <img id="github-top-langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark' alt='Github Top Language'/>
