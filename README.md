@@ -85,11 +85,27 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 GitHub Activity Graph
+
+[![Avishkar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aavishkark&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aavishkark/aavishkark/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=aavishkark&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
+
+---
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aavishkark)](https://wakatime.com/)
+
+---
+
+### 🚀 Featured Projects
+
+[![HealthBot](https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=HealthBot&theme=tokyonight)](https://github.com/aavishkark/HealthBot)
+[![car-booking](https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=RentARide&theme=tokyonight)](https://github.com/aavishkark/car-booking)
 
 ---
 
