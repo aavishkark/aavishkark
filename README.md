@@ -1,62 +1,73 @@
-# 👋 Hi, I'm Avishkar Kamble
+<!-- README.md -->
 
-🚀 Full Stack Developer | 💡 Creative Technologist | 🧠 Lifelong Learner
-
-I'm passionate about building meaningful digital experiences with clean, scalable code. I specialize in **React**, **Node.js**, and modern JavaScript, and love turning ideas into reality through design-driven development.
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 Portfolio: [avishkar-kamble.vercel.app](https://avishkar-kamble.vercel.app)
-- 💼 LinkedIn: [Avishkar Kamble](https://www.linkedin.com/in/avishkar-kamble-426830202/)
-- 🛠 GitHub: [@aavishkark](https://github.com/aavishkark)
-
----
-
-## ⚡ What I Do
-
-- 🧱 Build full-stack applications using **React**, **Express**, **MongoDB**, and **Redux**
-- ✨ Create responsive UI/UX from Figma to pixel-perfect code
-- 🔍 Work with REST APIs, Authentication, and modern web tooling
-- 📈 Continuously learn and contribute to open-source projects
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi there 👋, I'm Avishkar Kamble</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aavishkark&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkark&theme=radical" alt="GitHub Streak" />
+  🚀 Full Stack Developer | 🎨 Creative Technologist | 🧠 Curious Learner  
+</p>
+
+<p align="center">
+  <a href="https://avishkar-kamble.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avishkar-kamble-426830202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aavishkark" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧩 Featured Projects
+### 🧠 About Me
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [HealthBot](https://github.com/aavishkark/HealthBot) | AI-powered chatbot that gives real-time nutritional info | React, MongoDB, Groq AI |
-| [Car Booking App](https://github.com/aavishkark/car-booking) | Fully functional rental booking platform | React, Redux, Node.js |
-| [Virtual Campus Tour](https://github.com/aavishkark/campus-tour) | Immersive tour web app for universities | React, Express |
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**: React, Redux, Tailwind CSS, HTML5, CSS3  
-**Backend**: Node.js, Express.js  
-**Database**: MongoDB  
-**Tools**: Git, GitHub, Postman, VS Code  
-**Currently Learning**: TypeScript, Next.js
+- 🧱 I love building full-stack apps with **React**, **Node.js**, and **MongoDB**  
+- 🎯 I focus on creating **clean UIs**, smooth UX, and robust backend logic  
+- 🌱 Constantly learning — currently diving into **TypeScript** and **Next.js**  
+- 💬 Ask me about **frontend optimization**, **Redux**, or **API design**
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 🛠️ Tech Stack
 
-Thanks for visiting! 🌟
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
+---
 
+### 🚀 My Projects
+
+| 🔧 Project | 📝 Description | 🧩 Tech Stack |
+|-----------|----------------|---------------|
+| [**HealthBot**](https://github.com/aavishkark/HealthBot) | AI chatbot offering real-time nutrition advice | React, MongoDB, Groq AI |
+| [**Car Booking App**](https://github.com/aavishkark/car-booking) | Full-stack rental app simulating real-world booking flows | React, Redux, Express |
+| [**Campus Tour Web App**](https://github.com/aavishkark/campus-tour) | Interactive tour for university campuses | React, Node.js, CSS3 |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aavishkark&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark&layout=compact&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkark&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧭 Currently Exploring
+
+- 🧪 TypeScript
+- ⚙️ Next.js
+- 🧰 CI/CD & Testing tools
+
+---
+
+### 💡 Quote I Live By
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_  
+> — *Cory House*
+
+---
+
+<p align="center">
+  💻 Thanks for stopping by! Feel free to ⭐ any repo or connect with me on social 👇
+</p>
