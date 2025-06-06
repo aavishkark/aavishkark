@@ -18,15 +18,14 @@
 
 - 🧱 I love building full-stack apps with **React**, **Node.js**, and **MongoDB**  
 - 🎯 I focus on creating **clean UIs**, smooth UX, and robust backend logic  
-- 🌱 Constantly learning — currently diving into **TypeScript** and **Next.js**  
-- 💬 Ask me about **frontend optimization**, **Redux**, or **API design**
+- 🌱 Constantly learning — currently diving into **Android Development** and **Three.js**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,nodejs,express,mongodb,git" />
 </p>
 
 ---
@@ -89,6 +88,16 @@
 
 [![Avishkar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aavishkark&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aavishkark/aavishkark/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aavishkark/aavishkark/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aavishkark/aavishkark/output/github-snake.svg" />
+</picture>
 
 ---
 
