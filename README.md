@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Avishkar Kamble</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🎨 Creative Technologist | 🧠 Curious Learner  
+  🚀 Full Stack Developer | 🧠 Curious Learner  
 </p>
 
 <p align="center">
@@ -35,9 +35,9 @@
 
 | 🔧 Project | 📝 Description | 🧩 Tech Stack |
 |-----------|----------------|---------------|
-| [**HealthBot**](https://github.com/aavishkark/HealthBot) | AI chatbot offering real-time nutrition advice | React, MongoDB, Groq AI |
-| [**Car Booking App**](https://github.com/aavishkark/car-booking) | Full-stack rental app simulating real-world booking flows | React, Redux, Express |
-| [**Campus Tour Web App**](https://github.com/aavishkark/campus-tour) | Interactive tour for university campuses | React, Node.js, CSS3 |
+| [**Health Bot**](https://github.com/aavishkark/HealthBot) | AI chatbot offering real-time nutrition advice | React, MongoDB, Groq AI |
+| [**Rent A Ride**](https://github.com/aavishkark/RentARide) | Full-stack rental app simulating real-world booking flows | React, Redux, Express |
+| [**EduQuik**](https://github.com/aavishkark/Eduquik) | Online leaning platform, providing multiple tech courses to learn from | React, Node.js, CSS3 |
 
 ---
 
@@ -94,9 +94,10 @@
 
 ### 🧭 Currently Exploring
 
-- 🧪 TypeScript
-- ⚙️ Next.js
-- 🧰 CI/CD & Testing tools
+-  TypeScript
+-  Next.js
+-  React Native
+-  CI/CD & Testing tools
 
 ---
 
@@ -108,5 +109,5 @@
 ---
 
 <p align="center">
-  💻 Thanks for stopping by! Feel free to ⭐ any repo or connect with me on social 👇
+  💻 Thanks for stopping by! Feel free to ⭐ any repo or connect with me on social
 </p>
