@@ -92,23 +92,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aavishkark&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
----
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aavishkark)](https://wakatime.com/)
-
----
-
-### 🚀 Featured Projects
-
-[![HealthBot](https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=HealthBot&theme=tokyonight)](https://github.com/aavishkark/HealthBot)
-[![car-booking](https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=RentARide&theme=tokyonight)](https://github.com/aavishkark/car-booking)
-
----
-
 ### 🧭 Currently Exploring
 
 - 🧪 TypeScript
