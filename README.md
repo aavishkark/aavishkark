@@ -61,6 +61,15 @@
 
 ---
 
+### ✨ GitHub Achievements
+
+<p align="center">
+  🏅 Arctic Code Vault Contributor  
+  🧠 Pull Shark • 💬 Community Contributor • 🌟 Starstruck  
+</p>
+
+---
+
 ### 🧭 Currently Exploring
 
 - 🧪 TypeScript
