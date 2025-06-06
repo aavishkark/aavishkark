@@ -63,9 +63,24 @@
 
 ### ✨ GitHub Achievements
 
+### ✨ GitHub Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| [🧠 Pull Shark](https://github.com/users/aavishkark/achievements/pull-shark) | Merged pull requests like a pro |
+| [⚡ Quickdraw](https://github.com/users/aavishkark/achievements/quickdraw) | Opened PRs shortly after creating your account |
+| [🎯 YOLO](https://github.com/users/aavishkark/achievements/yolo) | Opened PRs without opening an issue first 😄 |
+
 <p align="center">
-  🏅 Arctic Code Vault Contributor  
-  🧠 Pull Shark • 💬 Community Contributor • 🌟 Starstruck  
+  <a href="https://github.com/users/aavishkark/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+  </a>
+  <a href="https://github.com/users/aavishkark/achievements/quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
+  </a>
+  <a href="https://github.com/users/aavishkark/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+  </a>
 </p>
 
 ---
