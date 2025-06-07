@@ -28,32 +28,55 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="40" />
-  <img src="https://skillicons.dev/icons?i=redux" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" />
-  <img src="https://skillicons.dev/icons?i=ts" width="40" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
-  <img src="https://skillicons.dev/icons?i=express" width="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" />
-</p>
-<p align="center">
-  <sub>React</sub> &nbsp; 
-  <sub>Redux</sub> &nbsp; 
-  <sub>JavaScript</sub> &nbsp; 
-  <sub>TypeScript</sub> &nbsp; 
-  <sub>HTML</sub> &nbsp; 
-  <sub>CSS</sub> &nbsp; 
-  <sub>Tailwind</sub> &nbsp; 
-  <sub>Node.js</sub> &nbsp; 
-  <sub>Express</sub> &nbsp; 
-  <sub>MongoDB</sub> &nbsp; 
-  <sub>Git</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br />
+      <sub>React</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" /><br />
+      <sub>Redux</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /><br />
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /><br />
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /><br />
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" /><br />
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /><br />
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /><br />
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /><br />
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br />
+      <sub>Git</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
