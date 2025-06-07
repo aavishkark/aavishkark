@@ -105,23 +105,7 @@
 
 ### ✨ GitHub Achievements
 
-<p align="center">
-  <a href="https://github.com/users/aavishkark/achievements/pull-shark" style="display: inline-block; text-align: center; margin: 0 20px; text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" />
-    <br />
-    <sub>🧠 Pull Shark</sub>
-  </a>
-  <a href="https://github.com/users/aavishkark/achievements/quickdraw" style="display: inline-block; text-align: center; margin: 0 20px; text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" />
-    <br />
-    <sub>⚡ Quickdraw</sub>
-  </a>
-  <a href="https://github.com/users/aavishkark/achievements/yolo" style="display: inline-block; text-align: center; margin: 0 20px; text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" />
-    <br />
-    <sub>🎯 YOLO</sub>
-  </a>
-</p>
+<table align="center"> <tr> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/pull-shark"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br /> <sub>🧠 Pull Shark</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/quickdraw"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br /> <sub>⚡ Quickdraw</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/yolo"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" /><br /> <sub>🎯 YOLO</sub> </a> </td> </tr> </table>
 
 ---
 
