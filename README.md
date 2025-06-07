@@ -28,42 +28,32 @@
 
 ---
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" width="40" /><br><sub>React</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=redux" width="40" /><br><sub>Redux</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" width="40" /><br><sub>JavaScript</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub>TypeScript</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" width="40" /><br><sub>HTML</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" width="40" /><br><sub>CSS</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub>Tailwind</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><sub>Node.js</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" width="40" /><br><sub>Express</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><sub>MongoDB</sub>
-  </span>
-  <span style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" width="40" /><br><sub>Git</sub>
-  </span>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="40" />
+  <img src="https://skillicons.dev/icons?i=redux" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
 </p>
-
+<p align="center">
+  <sub>React</sub> &nbsp; 
+  <sub>Redux</sub> &nbsp; 
+  <sub>JavaScript</sub> &nbsp; 
+  <sub>TypeScript</sub> &nbsp; 
+  <sub>HTML</sub> &nbsp; 
+  <sub>CSS</sub> &nbsp; 
+  <sub>Tailwind</sub> &nbsp; 
+  <sub>Node.js</sub> &nbsp; 
+  <sub>Express</sub> &nbsp; 
+  <sub>MongoDB</sub> &nbsp; 
+  <sub>Git</sub>
+</p>
 
 ---
 
