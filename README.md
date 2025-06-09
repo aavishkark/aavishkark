@@ -120,7 +120,7 @@
 <div align="start">
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/-CI%2FCD%20%26%20Testing-4CAF50?logo=githubactions&logoColor=white&style=for-the-badge" style="margin: 10px;" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aavishkark&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
