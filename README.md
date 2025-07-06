@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://avishkar-kamble.vercel.app" target="_blank" style="margin: 0 20px;">
+  <a href="aavishkar-kamble.vercel.app/" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/avishkar-kamble-426830202/" target="_blank" style="margin: 0 20px;">
