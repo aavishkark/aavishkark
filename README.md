@@ -88,21 +88,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aavishkark&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aavishkark&show_icons=true&theme=tokyonight&hide_border=true&refresh=1" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark&layout=compact&theme=tokyonight&hide_border=true&refresh=1" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkark&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aavishkark&theme=tokyonight&hide_border=true&refresh=1" />
   <br />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
@@ -129,7 +130,7 @@
 
 ### 📈 GitHub Activity Graph
 
-[![Avishkar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aavishkark&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Avishkar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aavishkark&theme=tokyo-night&hide_border=true&refresh=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
