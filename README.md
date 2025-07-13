@@ -98,6 +98,23 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+
+---
+
+
+### 📈 Contribution Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aavishkark&theme=tokyonight&hide_border=true" alt="Contribution Overview" />
+</p>
+
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aavishkark&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
