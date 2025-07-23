@@ -85,10 +85,10 @@
 
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aavishkark&show_icons=true&theme=tokyonight&hide_border=true&refresh=1" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aavishkark?theme=dark" alt="Awesome GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavishkark&layout=compact&theme=tokyonight&hide_border=true&refresh=1" />
   <br />
@@ -98,7 +98,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+ 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
