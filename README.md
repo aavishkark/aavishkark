@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Avishkar Kamble</h1>
 
 <p align="center">
-  🚀 Full Stack web Developer | 🧠 Curious Learner  
+  🚀 Full Stack Web Developer | 🧠 Curious Learner  
 </p>
 
 <p align="center">
