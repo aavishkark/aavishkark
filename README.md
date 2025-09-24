@@ -77,12 +77,6 @@
   </tr>
 </table>
 
-
----
-
-📦 Featured Projects
-<div align="center"> <a href="https://github.com/aavishkark/RentARide"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=RentARide&theme=tokyonight" /> </a> &nbsp; <a href="https://github.com/aavishkark/HealthBot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=HealthBot&theme=tokyonight" /> </a> <br /> <a href="https://github.com/aavishkark/ClickIt"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=ClickIt&theme=tokyonight" /> </a> &nbsp; <a href="https://github.com/aavishkark/genter-viewer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=genter-viewer&theme=tokyonight" /> </a> <br /> <a href="https://github.com/aavishkark/Eduquik"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=Eduquik&theme=tokyonight" /> </a> &nbsp; <a href="https://github.com/aavishkark/HotelOdeyssey"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aavishkark&repo=HotelOdeyssey&theme=tokyonight" /> </a> </div>
-
 ---
 
  📊 GitHub Stats
