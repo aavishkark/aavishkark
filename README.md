@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Avishkar Kamble</h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | 🧠 Curious Learner  
+   Full Stack Web Developer |  Curious Learner  
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🧱 I love building full-stack apps with **React**, **Node.js**, and **MongoDB**  
-- 🎯 I focus on creating **clean UIs**, smooth UX, and robust backend logic  
-- 🌱 Constantly learning — currently diving into **Android Development** and **Three.js**
+-  I love building full-stack apps with **React**, **Node.js**, and **MongoDB**  
+-  I focus on creating **clean UIs**, smooth UX, and robust backend logic  
+-  Constantly learning — currently diving into **Android Development** and **Three.js**
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
- 📊 GitHub Stats
+ GitHub Stats
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aavishkark?theme=dark" alt="Awesome GitHub Stats" />
@@ -93,7 +93,7 @@
 ---
 
 
-### 📈 Contribution Overview
+### Contribution Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aavishkark&theme=tokyonight&hide_border=true" alt="Contribution Overview" />
 </p>
@@ -101,25 +101,19 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aavishkark&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
-
----
-
-### ✨ GitHub Achievements
-
-<table align="center"> <tr> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/pull-shark"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br /> <sub>🧠 Pull Shark</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/quickdraw"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br /> <sub>⚡ Quickdraw</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/yolo"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" /><br /> <sub>🎯 YOLO</sub> </a> </td> </tr> </table>
+<table align="center"> <tr> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/pull-shark"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br /> <sub> Pull Shark</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/quickdraw"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br /> <sub> Quickdraw</sub> </a> </td> <td align="center" width="120"> <a href="https://github.com/users/aavishkark/achievements/yolo"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" /><br /> <sub> YOLO</sub> </a> </td> </tr> </table>
 
 ---
 
-### 📈 GitHub Activity Graph
+###  GitHub Activity Graph
 
 [![Avishkar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aavishkark&theme=tokyo-night&hide_border=true&refresh=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🎯 Currently Exploring
+###  Currently Exploring
 
 <div align="start">
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="margin: 10px;" />
@@ -129,7 +123,7 @@
 
 ---
 
-### 💡 Quote I Live By
+###  Quote I Live By
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — *Cory House*
@@ -137,5 +131,5 @@
 ---
 
 <p align="center">
-  💻 Thanks for stopping by! Feel free to ⭐ any repo
+   Thanks for stopping by! Feel free to ⭐ any repo
 </p>
